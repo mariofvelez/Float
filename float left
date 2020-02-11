@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<style>
+  body {
+    float: left;
+  }
+</style>
+<body>
+  <p> a </p>
+  <p> b </p>
+  <p> c </p>
+</body>
