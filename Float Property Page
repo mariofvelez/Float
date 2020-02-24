@@ -1,3 +1,13 @@
 <!DOCTYPE html>
 <title> Float Project </title>
-<h1> Float Properties </h1>
+<center><h1> Float Properties </h1></center>
+
+<h2> Float Left </h2>
+
+<h2> Float Right </h2>
+
+<h2> Float None </h2>
+
+<h2> Float Initial </h2>
+
+<h2> Float Inherit </h2>
