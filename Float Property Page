@@ -1,8 +1,13 @@
 <!DOCTYPE html>
-<title> Float Project </title>
-<center><h1> Float Properties </h1></center>
-
-<h2> Float Left </h2>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <h2> Float Left </h2>
 
 <h2> Float Right </h2>
 
@@ -11,3 +16,5 @@
 <h2> Float Initial </h2>
 
 <h2> Float Inherit </h2>
+</body>
+</html>
