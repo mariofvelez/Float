@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.nav-bar {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.nav-bar-item {
+  display: inline;
+  float: left;
+  font-size: 20px;
+}
+
+.nav-bar-item a{
+  display: block;
+  text-decoration: none;
+  padding: 13px 15px;
+  color: #18ff08; /* green */
+}
+
+.nav-bar-item a:hover {
+  background: 
+    linear-gradient(30deg, 
+      #18ff08 20%, #33bd2a);
+/*   filter: contrast(1.5); */
+  color: #333333;
+  content: ''
+}
