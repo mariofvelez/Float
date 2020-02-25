@@ -7,6 +7,12 @@
   <title>Document</title>
 </head>
 <body>
+  <div class="container">
+     <div class="wrapper">
+       <h1 class="heading"> Float Properties for Images</h1>
+       <h4 class="sub-heading"></h4>
+       </div>
+     </div>
 <h2> Float Left </h2>
 
 
