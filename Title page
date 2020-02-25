@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html>
 <title> Float Home Page </title>
-<h1> CSS Float Properties </h1>
-<img src="https://www.lifewire.com/thmb/coVyB3sEJcd090mjWKeX6n5lhVU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-435d0be2b58c409f859201ae6e45a16e.jpg">
+<body>
+<center><h1> CSS Float Properties </h1></center>
+<center><img src="https://www.lifewire.com/thmb/coVyB3sEJcd090mjWKeX6n5lhVU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-435d0be2b58c409f859201ae6e45a16e.jpg"></center>
+
+
+
+
+</body>
+</html>
+<style>
+
+
+
+
+</style>
