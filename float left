@@ -1,11 +1,42 @@
 <!DOCTYPE html>
+<html>
+<head>
 <style>
-  body {
-    float: left;
-  }
+img {
+  float: left;
+}
 </style>
+</head>
 <body>
-  <p> a </p>
-  <p> b </p>
-  <p> c </p>
+<h1>The Left Float </h1>
+
+<p>In this example, the image will float to the left  in the text, and the text in the paragraph will wrap around the image.</p>
+
+<p><img src="https://www.famousbirthdays.com/headshots/notyouraverageflight-6.jpg"  style="width:170px;height:170px;margin-left:15px;">YouTube gamer and basketball enthusiast known for his exciting, energetic and entertaining videos pertaining to real-life NBA action as well as the video games NBA 2K and NBA Live. He has also been known online by the name NotYourAverageFlight. He worked two jobs in the fast food industry. 
+
+Trivia
+He started YouTube as a means to relieve himself of depression and anger. He partnered with EA Sports under their game changer program. 
+
+Family Life
+He was born in Washington D.C and then moved to West Palm Beach, Florida where he would grow up. He dated Ariel Diaz and the two briefly ran a YouTube channel together. He has also dated rapper Ti Taylor from the Taylor Girlz. Several of his videos' thumbnails feature NBA superstars such as LeBron James, Kevin Durant, Kobe Bryant and more.
+</p>
+
 </body>
+</html>
+
+<html>
+<head>
+<style>
+body {
+  background-image: url("https://img.ifunny.co/images/f03233ed8dac3ec7b700704803dc1cd112ecf8c78b063e0d5ea698628af8ea0d_3.jpg");
+}
+</style>
+</head>
+<body>
+
+<h1>FTC FLIGHT CREW STAND UP!</h1>
+
+<p>Flight team </p>
+
+</body>
+</html>
