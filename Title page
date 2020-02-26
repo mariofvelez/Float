@@ -3,7 +3,12 @@
 <title> Float Home Page </title>
 <body>
 <center><h1> CSS Float Properties </h1></center>
-<center><img src="https://www.lifewire.com/thmb/coVyB3sEJcd090mjWKeX6n5lhVU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-435d0be2b58c409f859201ae6e45a16e.jpg"></center>
+<ul class="nav-bar">
+  <li class="nav-bar-item"><a href=""> Home </a></li>
+  <li class="nav-bar-item"><a href=""> Page 2 </a></li>
+  <li class="nav-bar-item"><a href=""> Page 3 </a></li>
+</ul>
+  <center><img src="https://www.lifewire.com/thmb/coVyB3sEJcd090mjWKeX6n5lhVU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-435d0be2b58c409f859201ae6e45a16e.jpg"></center>
 <center><h2> What are Float Properties? </center></h2>
   <center><div class="abs">
   <p> The float CSS property places an element on the left or right side of its container, allowing text and inline elements to wrap around it. The element is removed from the normal flow of the page, though still remaining a part of the flow. A floating element is one where the computed value of float is not <b>none</b>. As float implies the use of the block layout, it modifies the computed value of the display values.</p>
@@ -35,4 +40,43 @@ div.abs{
   width: 1000px ;
   height:100px;
   border: 3px ;
+  body {
+  margin: 0;
+  padding: 0;
+  }
+ 
+  
+  .nav-bar {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.nav-bar-item {
+  display: inline;
+  float: left;
+  font-size: 20px;
+}
+
+.nav-bar-item a{
+  display: block;
+  text-decoration: none;
+  padding: 13px 15px;
+  color: #18ff08; /* green */
+}
+
+.nav-bar-item a:hover {
+  background: 
+    linear-gradient(30deg, 
+      #18ff08 20%, #33bd2a);
+/*   filter: contrast(1.5); */
+  color: #333333;
+  content: ''
+}
 </style>
