@@ -1,0 +1,5 @@
+<ul class="nav-bar">
+  <li class="nav-bar-item"><a href=""> Home </a></li>
+  <li class="nav-bar-item"><a href=""> Tab 2 </a></li>
+  <li class="nav-bar-item"><a href=""> Tab 3 </a></li>
+</ul>
