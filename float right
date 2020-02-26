@@ -1,11 +1,35 @@
 <!DOCTYPE html>
+<html>
+<head>
 <style>
-  body {
-    float: right;
-  }
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 400%;
+  font-family: algerian, courier;
+  line-height: 80%;
+}
+ img {
+  float: right;
+ }
 </style>
+</head>
 <body>
-  <p> a </p>
-  <p> b </p>
-  <p> c </p>
+
+  <p><span>T</span>his is the Right Float.
+</p>
+
+<p>NBA Star Luka Doncic is our example.</p>
+  
+<img src= https://media4.s-nbcnews.com/i/newscms/2020_07/3231281/200214-luka-doncic-ew-453p_5110281d42c9b4d706d2de1cb9ac0645.jpg width="320px"></img>
+  
+  
+  
+  
+  
+<h1 align="right">Luka Doncic</h1>
+  
+ <p align="right">Dallas Mavericks Point Guard</p>
+
 </body>
+</html>
